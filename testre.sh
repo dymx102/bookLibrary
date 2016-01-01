@@ -1,4 +1,7 @@
 #!/bin/bash
+
+rm booklist.json
+
 function ergodic(){
 
 
